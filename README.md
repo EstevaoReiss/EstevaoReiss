@@ -6,7 +6,6 @@ Ola! sou o Estevão Castro
 
 <div>
   <a href="https://github.com/EstevaoReiss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstevaoReiss&theme=jolly&show_icons=true&hide_border=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoReiss&theme=jolly&show_icons=true&hide_border=false&layout=compact"/>
 
 </div>
