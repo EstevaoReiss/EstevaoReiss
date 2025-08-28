@@ -1,6 +1,6 @@
 Ola! sou o Estevão Castro
 
-👨🏾‍💻Atualmente estou trabalhando como front-end
+👨🏾‍💻Desenvolvedor front-end
 
 📓Estudando react
 
